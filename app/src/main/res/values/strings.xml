@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ChatFire</string>
+    <string name="title">Messaggio</string>
+    <string name="user">Username</string>
+    <string name="pass">Password</string>
+    <string name="btnSignIn">Sign In</string>
+    <string name="btnLoginFB">Login As Facebook</string>
+    <string name="tvSignUp">Sign Up</string>
+    <string name="edtFirstName">First name</string>
+    <string name="edtLastName">Last Name</string>
+    <string name="btnSignUp">Sign Up</string>
+</resources>
